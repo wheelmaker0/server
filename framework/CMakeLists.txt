@@ -1,0 +1,8 @@
+add_subdirectory(common)
+add_subdirectory(zk_util)
+add_subdirectory(thread_util)
+add_subdirectory(abtest_util)
+add_subdirectory(simd_util)
+add_subdirectory(kafka_util)
+add_subdirectory(hdfs_util)
+add_subdirectory(sql_util)
